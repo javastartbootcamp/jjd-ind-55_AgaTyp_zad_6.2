@@ -29,7 +29,7 @@ public class Main {
             numbers[i] = scanner.nextInt();
         }
 
-        for (double number: numbers) {
+        for (double number : numbers) {
             sum += (number * number);
         }
 
